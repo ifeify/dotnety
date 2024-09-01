@@ -1,0 +1,8 @@
+.next
+node_modules
+.env.development
+.env.production
+
+bin/
+obj/
+TestResults/
